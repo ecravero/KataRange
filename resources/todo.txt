@@ -1,0 +1,6 @@
+* Manipulation des intervalles d'entiers
+	#1 boolean Range.overlaps(Range anOtherRange) Tester si un intervalle chevauche un autre intervalle
+	#2 toString ==> "]-2;7]" par exemple
+	#3 creation d'un intervalle à partir d'une String, "]-2;7]" par exemple 
+* Manipulation des intervalles de flottants
+	#1 Toutes les manipulations d'intervalles d'entiers doivent désormais fonctionner aussi pour les flottants
